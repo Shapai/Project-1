@@ -1,0 +1,3 @@
+[submodule "EKS-DR"]
+	path = EKS-DR
+	url = https://github.com/Shapai/EKS-DR.git
